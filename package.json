@@ -1,8 +1,7 @@
 {
   "name": "1hbraingames",
-  "version": "1.0.7",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.8",
+  "description": "This is just a game..",
   "bin": {
     "brain-games": "dist/bin/brain-games.js"
   },
@@ -28,8 +27,7 @@
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.5",
     "@babel/node": "^7.0.0",
-    "@babel/preset-env": "^7.1.5",
-    "@babel/preset-flow": "^7.0.0"
+    "@babel/preset-env": "^7.1.5"
   },
   "dependencies": {
     "readline-sync": "^1.4.9"
