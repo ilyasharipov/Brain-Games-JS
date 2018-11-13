@@ -1,10 +1,9 @@
 {
   "name": "1hbraingames",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "This is just a game..",
   "bin": {
-    "brain-games": "dist/bin/brain-games.js",
-    "brain-even": "dist/bin/brain-even.js"
+    "brain-games": "dist/bin/brain-games.js"
   },
   "files": [
     "dist"
