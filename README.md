@@ -4,4 +4,4 @@
 
 <a href="https://codeclimate.com/github/yanepenb/project-lvl1-s380/test_coverage"><img src="https://api.codeclimate.com/v1/badges/3a556f7bfa6c55c47df4/test_coverage" /></a>
 
-https://travis-ci.com/yanepenb/project-lvl1-s380.svg?branch=master
+<a href="https://travis-ci.com/yanepenb/project-lvl1-s380.svg?branch=master"><img src="https://travis-ci.org/yanepenb/project-lvl1-s380" /></a>
