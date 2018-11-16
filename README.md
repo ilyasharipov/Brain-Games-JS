@@ -8,9 +8,8 @@
 
 ## **How to install:**
 ### **sudo npm install -g 1hbraingames**
-[[View](https://asciinema.org/a/zWPlmHrxfFdNQfPMB975GSUNK.svg)](https://asciinema.org/a/zWPlmHrxfFdNQfPMB975GSUNK)
+[View](https://asciinema.org/a/zWPlmHrxfFdNQfPMB975GSUNK.svg)(https://asciinema.org/a/zWPlmHrxfFdNQfPMB975GSUNK)
 
-```
 ### **brain-even**
 <a href="https://asciinema.org/a/oYSbaczOK8UVJRRBi93ik8KOg" target="_blank"><img src="https://asciinema.org/a/oYSbaczOK8UVJRRBi93ik8KOg.svg" /></a>
 ### **brain-calc**
@@ -21,5 +20,3 @@
 <a href="https://asciinema.org/a/O1Na2wpw40u8R3GnRXVIOIWbr" target="_blank"><img src="https://asciinema.org/a/O1Na2wpw40u8R3GnRXVIOIWbr.svg" /></a>
 ### **brain-prime**
 <a href="https://asciinema.org/a/peyYy2ZhWGUfZsHKG12Rhsu9v" target="_blank"><img src="https://asciinema.org/a/peyYy2ZhWGUfZsHKG12Rhsu9v.svg" /></a>
-
-```
