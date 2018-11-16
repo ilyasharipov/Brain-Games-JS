@@ -14,10 +14,10 @@ const generateGameData = () => {
   for (let i = 1; i <= lengthProgression; i += 1) {
     progression.push(firstNum + i * step);
   }
-  const hiddenElement = getRandomNum(1, lengthProgression);
+  const hiddenElementPosition = getRandomNum(1, lengthProgression);
 
-  const rightAnswer = progression[hiddenElement];
-  progression[hiddenElement] = '..';
+  const rightAnswer = progression[hiddenElementPosition];
+  progression[hiddenElementPosition] = '..';
 
   const question = `${progression.join(' ')}`;
 
