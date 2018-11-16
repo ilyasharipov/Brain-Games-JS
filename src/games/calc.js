@@ -1,14 +1,10 @@
 import { cons } from 'hexlet-pairs';
-import startGame from '../gameengine';
+import startGame from '../gameEngine';
 import getRandomNum from '../utils';
 
 const info = 'What is the result of the expression?';
 
-const randomOperator = () => {
-  const operators = ['+', '-', '*'];
-  const str = operators[Math.floor(Math.random() * 3)];
-  return str;
-};
+const operators = ['+', '-', '*'];
 
 const performOperation = (a, b, c) => {
   switch (c) {
@@ -26,7 +22,7 @@ const performOperation = (a, b, c) => {
 const generateGameData = () => {
   const num1 = getRandomNum(1, 20);
   const num2 = getRandomNum(1, 20);
-  const operator = randomOperator();
+  const operator = operators[getRandomNum(Math.floor(Math.random()), operators.length - 1)];
   const question = `${num1}${operator}${num2}`;
   const rightAnswer = performOperation(num1, num2, operator);
 
