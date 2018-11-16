@@ -15,7 +15,7 @@ const startGame = (info, playRound) => {
     const question = car(generation);
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ').toLowerCase();
-    const rightAnswer = String(cdr(generation));
+    const rightAnswer = cdr(generation);
 
     const isRight = userAnswer === rightAnswer;
     if (isRight) {

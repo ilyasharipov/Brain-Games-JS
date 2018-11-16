@@ -16,7 +16,7 @@ const generateGameData = () => {
   }
   const hiddenElementPosition = getRandomNum(1, lengthProgression);
 
-  const rightAnswer = progression[hiddenElementPosition];
+  const rightAnswer = String(progression[hiddenElementPosition]);
   progression[hiddenElementPosition] = '..';
 
   const question = `${progression.join(' ')}`;

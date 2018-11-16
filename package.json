@@ -1,6 +1,6 @@
 {
   "name": "1hbraingames",
-  "version": "1.4.7",
+  "version": "1.4.8",
   "description": "This is just a game..",
   "bin": {
     "brain-games": "dist/bin/brain-games.js",
