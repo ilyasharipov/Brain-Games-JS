@@ -1,7 +1,5 @@
 ## **Brain-Games**
 
-<a href="https://codeclimate.com/github/yanepenb/project-lvl1-s380/maintainability"><img src="https://api.codeclimate.com/v1/badges/3a556f7bfa6c55c47df4/maintainability" /></a>
-
 [![Maintainability](https://api.codeclimate.com/v1/badges/b829b90290fec6bcfa94/maintainability)](https://codeclimate.com/github/yanepenb/b-g.js/maintainability)
 
 [![Build Status](https://travis-ci.org/yanepenb/b-g.js.svg?branch=master)](https://travis-ci.org/yanepenb/b-g.js)
