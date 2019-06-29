@@ -4,7 +4,7 @@
 
 <a href="https://codeclimate.com/github/yanepenb/project-lvl1-s380/test_coverage"><img src="https://api.codeclimate.com/v1/badges/3a556f7bfa6c55c47df4/test_coverage" /></a>
 
-<a href="https://travis-ci.org/yanepenb/project-lvl1-s380"><img src="https://travis-ci.com/yanepenb/project-lvl1-s380.svg?branch=master" /></a>
+[![Build Status](https://travis-ci.org/yanepenb/b-g.js.svg?branch=master)](https://travis-ci.org/yanepenb/b-g.js)
 
 ## **How to install:**
 ####  **sudo npm install -g 1hbraingames** [View](https://asciinema.org/a/zWPlmHrxfFdNQfPMB975GSUNK)
