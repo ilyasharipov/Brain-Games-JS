@@ -2,6 +2,8 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/b829b90290fec6bcfa94/maintainability)](https://codeclimate.com/github/yanepenb/b-g.js/maintainability)
 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b829b90290fec6bcfa94/test_coverage)](https://codeclimate.com/github/yanepenb/b-g.js/test_coverage)
+
 [![Build Status](https://travis-ci.org/yanepenb/b-g.js.svg?branch=master)](https://travis-ci.org/yanepenb/b-g.js)
 
 ## **How to install:**
