@@ -1,4 +1,4 @@
-## Brain-Games PHP:
+## Brain-Games JS:
 This is a set of logical mini-games launched from the console. List of games: Game: "Calculator" Game: "Parity Check" Game "Is it a prime number?" Game "Arithmetic Progression.
 
 ## **Badges**
