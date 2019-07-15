@@ -3,7 +3,7 @@ This is a set of logical mini-games launched from the console. List of games: Ga
 
 ## **Badges**
 [![Maintainability](https://api.codeclimate.com/v1/badges/0190f50084e3209bd2df/maintainability)](https://codeclimate.com/github/yanepenb/Brain-Games-JS/maintainability)
-[![Build Status](https://travis-ci.org/yanepenb/b-g.js.svg?branch=master)](https://travis-ci.org/yanepenb/b-g.js)
+[![Build Status](https://travis-ci.org/yanepenb/Brain-Games-JS.svg?branch=master)](https://travis-ci.org/yanepenb/Brain-Games-JS)
 
 ## **How to install:**
 ```
